@@ -42,6 +42,26 @@
  main img{
    border-radius: 10px;
  }
+
+ nav{
+   margin-top: 10px;
+   text-align: center;
+ }
+
+ nav a{
+   text-decoration: none;
+   border: 1px solid #767676;
+   border-radius: 10px;
+   margin: 5px;
+   padding: 5px;
+   color: #333;
+ }
+
+ nav a:hover{
+   background-color: #767676;
+   color: #fff;
+   
+ }
  
  .popular{
    text-align: center;
@@ -96,6 +116,10 @@
  h6{
    font-weight: bolder;
  }
+
+.info-info a:hover{
+  text-decoration: underline;
+}
  
  
  
