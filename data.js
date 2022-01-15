@@ -1,4 +1,4 @@
-const data = () => {
+export const data = () => {
   return [
     {
       productName: "Lime Basil & Mandarin Cologne",
