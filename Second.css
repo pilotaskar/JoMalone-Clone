@@ -1,0 +1,13 @@
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 80px;
+}
+.card {
+  border: 1px solid black;
+  text-align: center;
+  margin: auto;
+}
+.productImg {
+  width: 500px;
+}
