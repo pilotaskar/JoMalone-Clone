@@ -1,21 +1,20 @@
-import {data}from './data'
+import {data}from './data.js'
 const container=document.querySelector('.container')
 const alldata=data()
+const div = document.createElement('div')
+
 const showProducts=(array) => {
-    for(let el of array){ 
-        const div=document.createElement('div')
-        const img=documnet.createElement('img')
-        const productname=document.createElement('h3')
-        const price=document.createElement('p')
-        const size=document.createElement('p')
+    array.forEach(el=> {
 
-       
-        price.innerHTML=el.price
-        size.innerHTML=el.size
-        productname.innerHTML=el.productName
-        img.src=el.image
-
-        console.log(price)
-        }
+        div.innerHTML = `
+            <div class="inner-div">
+                <img src="${el.image}" alt="${el.productName}">
+                <h3>${el.productName}</h3>
+                <p>${el.size}</p>
+                <p>${el.price}</p>
+            </div>
+        `
+        container.appendChild(div)
+        })
 }
 showProducts(alldata);
