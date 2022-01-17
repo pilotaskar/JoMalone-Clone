@@ -6,7 +6,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L00401_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Pomegranate Noir Cologne",
@@ -14,7 +14,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L10G01_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
       sale: "bestseller",
     },
     {
@@ -23,7 +23,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L26L01_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Peony & Blush Suede Cologne",
@@ -31,7 +31,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L3AF01_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Wood Sage & Sea Salt Cologne",
@@ -39,7 +39,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L41501_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Myrrh & Tonka Cologne Intense",
@@ -47,7 +47,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L5LK01_670x670_0.png",
       price: "$196.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Blackberry & Bay Cologne",
@@ -55,7 +55,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L32R01_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
       sale: "bestseller",
     },
     {
@@ -64,7 +64,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L7JL01_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Mimosa & Cardamom Cologne",
@@ -72,7 +72,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L51C01_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Red Roses Cologne",
@@ -80,7 +80,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L08E01_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Oud & Bergamot Cologne Intense",
@@ -88,8 +88,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L29A01_670x670_0.png",
       price: "$196.00",
       size: "100ml",
-      category: "home essentials",
-      sale: "bestseller",
+      category: "cologne",
     },
     {
       productName: "Wild Bluebell Cologne",
@@ -97,7 +96,8 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L2H601_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
+      sale: "bestseller",
     },
     {
       productName: "Poppy & Barley Cologne",
@@ -105,31 +105,31 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_LA0001_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Grapefruit Cologne",
       image:
-        "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L00C01_670x670_0.png",
+        "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_LA0001_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Earl Grey & Cucumber Cologne",
       image:
-        "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L38L01_670x670_0.png",
+        "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L00C01_670x670_0.png",
       price: "$145.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
     },
     {
       productName: "Velvet Rose & Oud Cologne Intense",
       image:
-        "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L32N01_670x670_0.png",
+        "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L38L01_670x670_0.png",
       price: "$196.00",
       size: "100ml",
-      category: "home essentials",
+      category: "cologne",
       sale: "bestseller",
     },
     {
@@ -138,7 +138,8 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L0W201_670x670_0.png",
       price: "$70.00",
       size: "200g",
-      category: "home essentials",
+      category: "bath and body",
+      sale: "bestseller",
     },
     {
       productName: "Myrrh & Tonka Scent Surround™ Diffuser",
@@ -146,7 +147,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L92W01_670x670_0.png",
       price: "$125.00",
       size: "165ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Pomegranate Noir Deluxe Candle",
@@ -154,8 +155,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L36101_670x670_0.png",
       price: "$210.00",
       size: "600g",
-      category: "home essentials",
-      sale: "bestseller",
+      category: "bath and body",
     },
     {
       productName: "English Pear & Freesia Room Spray",
@@ -163,7 +163,8 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L3AK01_670x670_0.png",
       price: "$72.00",
       size: "175ml",
-      category: "home essentials",
+      category: "bath and body",
+      sale: "bestseller",
     },
     {
       productName: "Pomegranate Noir Home Candle",
@@ -171,8 +172,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L10H01_670x670_0.png",
       price: "$70.00",
       size: "200g",
-      category: "home essentials",
-      sale: "bestseller",
+      category: "bath and body",
     },
     {
       productName: "Oud & Bergamot Home Candle",
@@ -180,8 +180,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L3FA01_670x670_0.png",
       price: "$95.00",
       size: "200g",
-      category: "home essentials",
-      sale: "bestseller",
+      category: "bath and body",
     },
     {
       productName: "English Pear & Freesia Deluxe Candle",
@@ -189,7 +188,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L96A01_670x670_0.png",
       price: "$210.00",
       size: "600g",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Pomegranate Noir Luxury Candle",
@@ -197,7 +196,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L36901_670x670_0.png",
       price: "$515.00",
       size: "2.5kg",
-      category: "home essentials",
+      category: "bath and body",
       sale: "bestseller",
     },
     {
@@ -206,7 +205,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L2W501_670x670_0.png",
       price: "$100.00",
       size: "165ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Red Roses Scent Surround™ Diffuser",
@@ -214,7 +213,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L2W701_670x670_0.png",
       price: "$100.00",
       size: "165ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Velvet Rose & Oud Home Candle",
@@ -222,7 +221,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L3X601_670x670_0.png",
       price: "$95.00",
       size: "200g",
-      category: "home essentials",
+      category: "bath and body",
       sale: "bestseller",
     },
     {
@@ -231,7 +230,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L41901_670x670_0.png",
       price: "$70.00",
       size: "200g",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "English Pear & Freesia Home Candle",
@@ -239,7 +238,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L2A601_670x670_0.png",
       price: "$70.00",
       size: "200g",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Peony & Blush Suede Home Candle",
@@ -247,7 +246,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L3AG01_670x670_0.png",
       price: "$70.00",
       size: "200g",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Orange Blossom Home Candle",
@@ -255,7 +254,8 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L0W401_670x670_0.png",
       price: "$70.00",
       size: "200g",
-      category: "home essentials",
+      category: "bath and body",
+      sale: "bestseller",
     },
     {
       productName: "Pomegranate Noir Scent Surround™ Diffuser",
@@ -263,8 +263,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L2W601_670x670_0.png",
       price: "$100.00",
       size: "165ml",
-      category: "home essentials",
-      sale: "bestseller",
+      category: "bath and body",
     },
     {
       productName: "English Pear & Freesia Scent Surround™ Diffuser",
@@ -272,7 +271,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L3AL01_670x670_0.png",
       price: "$100.00",
       size: "165ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Lime Basil & Mandarin Body & Hand Lotion",
@@ -280,7 +279,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L4H401_670x670_0.png",
       price: "$62.00",
       size: "250ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Peony & Blush Suede Bath Oil",
@@ -288,7 +287,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L6F501_670x670_0.png",
       price: "$69.00",
       size: "250ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Pomegranate Noir Exfoliating Shower Gel",
@@ -296,8 +295,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L9L001_670x670_0.png",
       price: "$46.00",
       size: "200ml",
-      category: "home essentials",
-      sale: "bestseller",
+      category: "bath and body",
     },
     {
       productName: "English Pear & Freesia Body Crème",
@@ -305,7 +303,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L4P501_670x670_0.png",
       price: "$86.00",
       size: "175ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Myrrh & Tonka Shower Oil",
@@ -313,7 +311,8 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L71W01_670x670_0.png",
       price: "$58.00",
       size: "250ml",
-      category: "home essentials",
+      category: "bath and body",
+      sale: "bestseller",
     },
     {
       productName: "Mimosa & Cardamom Body Crème",
@@ -321,7 +320,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L51G01_670x670_0.png",
       price: "$86.00",
       size: "175ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Vitamin E Lip Conditioner",
@@ -329,7 +328,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L35P01_670x670_0.png",
       price: "$36.00",
       size: "15ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Velvet Rose & Oud Dry Body Oil",
@@ -337,8 +336,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L3X501_670x670_0.png",
       price: "$86.00",
       size: "100ml",
-      category: "home essentials",
-      sale: "bestseller",
+      category: "bath and body",
     },
     {
       productName: "Lime Basil & Mandarin Hand Cream",
@@ -346,7 +344,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L9KK01_670x670_0.png",
       price: "$32.00",
       size: "50ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "Pomegranate Noir Bath Oil",
@@ -354,8 +352,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L4Y501_670x670_0.png",
       price: "$69.00",
       size: "250ml",
-      category: "home essentials",
-      sale: "bestseller",
+      category: "bath and body",
     },
     {
       productName: "Lime Basil & Mandarin Body & Hand Wash",
@@ -363,7 +360,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L6A701_670x670_0.png",
       price: "$46.00",
       size: "250ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "English Pear & Freesia Body & Hand Wash",
@@ -371,7 +368,8 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L6A401_670x670_0.png",
       price: "$46.00",
       size: "250ml",
-      category: "home essentials",
+      category: "bath and body",
+      sale: "bestseller",
     },
     {
       productName: "Wood Sage & Sea Salt Body Crème",
@@ -379,7 +377,8 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L4PJ01_670x670_0.png",
       price: "$86.00",
       size: "175ml",
-      category: "home essentials",
+      category: "bath and body",
+      sale: "bestseller",
     },
     {
       productName: "Vitamin E Hand Treatment",
@@ -387,7 +386,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L11R01_670x670_0.png",
       price: "$62.00",
       size: "100ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "English Pear & Freesia Hand Cream",
@@ -395,7 +394,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L9KL01_670x670_0.png",
       price: "$32.00",
       size: "50ml",
-      category: "home essentials",
+      category: "bath and body",
     },
     {
       productName: "English Mint & Ginger Lip Care",
@@ -403,7 +402,7 @@ export const data = () => {
         "https://www.jomalone.com/media/export/cms/products/670x670/jo_sku_L5KK01_670x670_0.png",
       price: "$30.00",
       size: "9ml",
-      category: "home essentials",
+      category: "bath and body",
     },
   ];
 };
